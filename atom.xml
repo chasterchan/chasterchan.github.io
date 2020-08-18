@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>chasterchan</title>
+  
+  
+  <link href="https://chasterchan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chasterchan.github.io/"/>
+  <updated>2020-08-18T03:25:29.069Z</updated>
+  <id>https://chasterchan.github.io/</id>
+  
+  <author>
+    <name>chasterchan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Blog</title>
+    <link href="https://chasterchan.github.io/2020/08/18/firstblog/"/>
+    <id>https://chasterchan.github.io/2020/08/18/firstblog/</id>
+    <published>2020-08-18T03:18:00.529Z</published>
+    <updated>2020-08-18T03:25:29.069Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;静态代码块&quot;&gt;&lt;a href=&quot;#静态代码块&quot; class=&quot;headerlink&quot; title=&quot;静态代码块&quot;&gt;&lt;/a&gt;静态代码块&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;1、使用 static</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post</title>
+    <link href="https://chasterchan.github.io/2020/08/18/post/"/>
+    <id>https://chasterchan.github.io/2020/08/18/post/</id>
+    <published>2020-08-17T16:15:47.000Z</published>
+    <updated>2020-08-17T16:15:47.046Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chasterchan.github.io/2020/08/17/hello-world/"/>
+    <id>https://chasterchan.github.io/2020/08/17/hello-world/</id>
+    <published>2020-08-17T13:51:47.025Z</published>
+    <updated>2020-08-18T02:39:36.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
